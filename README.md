@@ -187,6 +187,25 @@ Based on the analysis, organisations could use this type of dashboard to:
 
 ```text
 Utility-Operations-Dashboard
+
+
+## NHS Hospital Analytics Dashboard
+
+**Tools:** Power BI, SQL
+
+A hospital analytics project exploring patient admissions, appointment activity, completion rates and average length of stay using synthetic practice data.
+
+- [View NHS Hospital Analytics Dashboard](NHS_Analytics_Dashboard.pbix.pbix)
+
+## Utility Operations Dashboard
+
+**Tools:** Power BI, SQL
+
+Analyses utility operational performance, costs, SLA performance, customer ratings and engineer workload.
+
+- [View Utility Power BI Dashboard](Utility_Operations_Dashboard.pbix)
+- [View Utility SQL Practice](Utility_SQL_Practice.sql)
+
 │
 ├── README.md
 │

@@ -188,7 +188,7 @@ Based on the analysis, organisations could use this type of dashboard to:
 ```text
 Utility-Operations-Dashboard
 
-
+```
 ## NHS Hospital Analytics Dashboard
 
 **Tools:** Power BI, SQL
